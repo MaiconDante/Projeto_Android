@@ -7,7 +7,7 @@ O **Site do Android** é uma página fictícia dedicada ao sistema operacional A
 ---
 
 ## 📷 Demonstração
-URL -> <a href="#">Projeto Android</a>
+URL -> <a href="https://maicondante.github.io/Projeto_Android/">Projeto Android</a>
 
 ## 📚 Sobre o Curso
 
